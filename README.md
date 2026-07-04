@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rijwin Prince
 
-First-year **cybersecurity student** focused on **offensive security** — building hands-on skills through CTFs, Python projects, and practical labs.
+A **cybersecurity student** focused on **offensive security** — building hands-on skills through CTFs, Python projects, and practical labs.
 
 🎯 Currently exploring: web exploitation, Python scripting, and the foundations of pentesting
 🏆 Competing in **CTF's** with **ZERODAY GUYS**
